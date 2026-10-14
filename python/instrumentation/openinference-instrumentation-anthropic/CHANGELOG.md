@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.1.0](https://github.com/Arize-ai/openinference/compare/python-openinference-instrumentation-anthropic-v3.0.3...python-openinference-instrumentation-anthropic-v3.1.0) (2026-10-14)
+
+
+### Features
+
+* **anthropic:** support the current Messages API in Python (stable and beta) ([#4037](https://github.com/Arize-ai/openinference/issues/4037)) ([e116ec7](https://github.com/Arize-ai/openinference/commit/e116ec7d345e04d27ebb588fdd16936fdb185673))
+
+
+### Bug Fixes
+
+* **anthropic:** end span when stream is closed or abandoned ([#3999](https://github.com/Arize-ai/openinference/issues/3999)) ([1198ec9](https://github.com/Arize-ai/openinference/commit/1198ec9584961640cb8fd78439e643bdb072e01d))
+
 ## [3.0.3](https://github.com/Arize-ai/openinference/compare/python-openinference-instrumentation-anthropic-v3.0.2...python-openinference-instrumentation-anthropic-v3.0.3) (2026-10-10)
 
 
